@@ -1,0 +1,47 @@
+body{
+    background:url(https://lh3.googleusercontent.com/5wrK-60oBAq2dBfvx9mn0T-gp_6mWn0FSjMq_ohv7oJLVp5Ch8dGdGZwX2hek-f-LevvwW4zPLlFYLrYN5qwgh-_sVvToaXuej0Iyl6JGggpVMoVHA08rz_E1vWGxVoBt2FwUHsnvAD8qpBlS0d57adZM8n00tnPbBfiSRqN1QwC9xGxKAWcyRE3CbaS-ftEjXV27S7EiptN5Inx8YEO25GubMgjQWqr7lTrzonoT-K-gX9Ca3-gZr8z0cM_nY9Q0Y9Z2fI2ckzkFNAEA7-IsGrWo1GWEWn9hENSfIR1vHZYJ_rSbWgP6Kq6AK3vzq3yNdvsQTWz6zChGWUEZcl52JsdGygc3e5N8J7vymi0H87VnbIn4JYTEEzbJA_YsZ7owBimM2UYvZt_khQQlUHSJ8HIgBenbdlxuSXZpBccH4GA8YBWVpQ_Evw8kEA_pRdH8w6ClIPlxVaR7dMZbvDEbbJ0oLhpTbpuBdW7tXWYDd-kMwFxM5jmo0cTidnne0AyJSyWR6js056dDE16ATYomEFM2tz2hp7V0hEMhHZ68EECCAViOhn9-BXQjEk5NK1qcm2cPPSzQJJ9_bK3u6TKRVom_wS7QMCQS7KlRKL1-TG9GT56y5pCVAwxguqhtQarkFiy-kf_TMvaK2f6DubtaLpR23XhXKg=w876-h657-no);
+    background-size: cover;
+    background-position: center;
+    padding-top: 150px;
+    color: white;
+    font-family: Abel;
+}
+
+#joy{
+    
+    text-align: center;
+
+}
+html{
+    height: 100%;
+}
+
+#content{
+    padding-top: 8%;
+    text-align: center;
+    text-shadow: 3px 3px #000000;
+
+}
+
+.btn{
+    font-family: Pacifico;
+}
+
+hr{
+    border:none;
+    height: 20px;
+       width: 400px;
+      height: 50px;
+      margin-top: 0;
+      border-bottom: 1px solid #1f1209;
+      box-shadow: 0 20px 20px -20px #333;
+    margin: -50px auto 10px; }
+h1{
+    
+    font-weight: 700;
+    font-size: 5em;
+}
+
+.container{
+    text-align: center;
+}
